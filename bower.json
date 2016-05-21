@@ -1,0 +1,11 @@
+{
+  "name": "istoin",
+  "authors": [
+    "MaximLutay <maksym.lutai@nure.ua>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
